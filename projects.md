@@ -22,4 +22,4 @@ Applying is straightforward. You'll propose your project by adding it to this li
 
 ## Approved Community Projects
 
-(Add your project below this line, following the instructions above.)
+(https://github.com/HUNSETO1413/community-use)
