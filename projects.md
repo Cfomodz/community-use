@@ -20,6 +20,10 @@ Applying is straightforward. You'll propose your project by adding it to this li
 
 ---
 
+## Submitted Project Applications (Under Review)
+
+[Reddit Audience Research & Lead Generation](https://github.com/mixiopro/reddit-audience-research-lead-gen) - AI-powered MCP and n8n workflow solution for SaaS startups to monitor Reddit conversations, conduct audience research, and generate qualified leads
+
 ## Approved Community Projects
 
 (Add your project below this line, following the instructions above.)
