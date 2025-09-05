@@ -27,6 +27,7 @@ Applying is straightforward. You'll propose your project by adding it to this li
 
 
 [Festical](https://festical.co.uk) - Festical is a UK music festival database being designed to serve festival staff, build crews, volunteers, and traders. 
+[Hungry Onion](https://www.hungryonion.org) - Hungry Onion is an active, free and no-revenue community based on the open source Discourse platform that encourages thoughtful discussions amongst serious food lovers on dining out and cooking.  
 
 ---
 
@@ -35,5 +36,5 @@ Applying is straightforward. You'll propose your project by adding it to this li
 (Add your project below this line, following the instructions above.)
 
 [FusePress](https://fusepress.co) - FusePress eliminates inefficiencies in managing WordPress websites with a unified platform for plugin licensing, deployment, and support
-
 [n8node](https://n8node.ru) - The community of business process automators using n8n in Russia
+
