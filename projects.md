@@ -24,6 +24,9 @@ Applying is straightforward. You'll propose your project by adding it to this li
 
 
 [<img width="100%" height="auto" alt="festical" src="https://github.com/user-attachments/assets/35a3b3d2-a809-4759-bb37-d8622407f21a" />](https://festical.co.uk)
+[C&E Trading Solutions LLC/and multiple other projects]( [https://www.ebay.com/str/cetradingsolutionsllc](https://www.ebay.com/str/cetradingsolutionsllc) | [https://streamershost.com/](https://streamershost.com/) | [https://swishervr.com/](https://swishervr.com/) | [https://streamershost.com/](https://playrecycle.com/) ) First C&E and streamers host are both our company/trademark. We donate through eBay to various charitable organizations, alternating between multiple of them. We donate services and servers to the Re:Cycle project [https://discord.gg/kjzVeUrkUp](https://discord.gg/kjzVeUrkUp). We try to be very charitable as a company.
+
+
 
 ---
 
