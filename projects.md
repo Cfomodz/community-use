@@ -22,19 +22,17 @@ Applying is straightforward. You'll propose your project by adding it to this li
 
 ## Submitted Project Applications (Under Review)
 
-
-[<img width="100%" height="auto" alt="festical" src="https://github.com/user-attachments/assets/35a3b3d2-a809-4759-bb37-d8622407f21a" />](https://festical.co.uk)
-[C&E Trading Solutions LLC/and multiple other projects]( [https://www.ebay.com/str/cetradingsolutionsllc](https://www.ebay.com/str/cetradingsolutionsllc) | [https://streamershost.com/](https://streamershost.com/) | [https://swishervr.com/](https://swishervr.com/) | [https://playrecycle.com/](https://playrecycle.com/) ) First C&E and streamers host are both our company/trademark. We donate through eBay to various charitable organizations, alternating between multiple of them. We donate services and servers to the Re:Cycle project [https://discord.gg/kjzVeUrkUp](https://discord.gg/kjzVeUrkUp). We try to be very charitable as a company.
-
-
+(Add your project below this line, following the instructions above.)
 
 ---
 
 ## Approved Community Projects
 
-(Add your project below this line, following the instructions above.)
+#### [C&E Trading Solutions LLC](https://www.ebay.com/str/cetradingsolutionsllc)/and multiple other projects
+[https://streamershost.com/](https://streamershost.com/) | [https://swishervr.com/](https://swishervr.com/) | [https://playrecycle.com/](https://playrecycle.com/) ) First C&E and streamers host are both our company/trademark. We donate through eBay to various charitable organizations, alternating between multiple of them. We donate services and servers to the Re:Cycle project [https://discord.gg/kjzVeUrkUp](https://discord.gg/kjzVeUrkUp). We try to be very charitable as a company.
 
 [Festical](https://festical.co.uk) - Festical is a UK music festival database being designed to serve festival staff, build crews, volunteers, and traders. 
+[<img width="500px" height="auto" alt="festical" src="https://github.com/user-attachments/assets/35a3b3d2-a809-4759-bb37-d8622407f21a" />](https://festical.co.uk)
 
 [Hungry Onion](https://www.hungryonion.org) - Hungry Onion is an active, free and no-revenue community based on the open source Discourse platform that encourages thoughtful discussions amongst serious food lovers on dining out and cooking.  
 
