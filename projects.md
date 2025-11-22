@@ -12,11 +12,17 @@ Applying is straightforward. You'll propose your project by adding it to this li
 
 1.  **Fork this repository** (cfomodz/community-use).
 2.  **Edit the `projects.md` file** in your forked repository.
-3.  **Add your project** to the "Submitted Project Applications (Under Review)" section below using this format:
+3.  **Add your project** to the "Submitted Project Applications (Under Review)" section below using this format
 
-    `[Your Project Name](Your Project URL) - 1 line description how it's empowering community (optional)`
-4.  **Create a Pull Request (PR)** from your forked repository back to the main `community-use` repo.
-5.  Once you're approved, your PR will be merged into this list and displayed on the main repo.
+   ## description
+
+The academic project Integrating SIEM Technologies for Improved Governance, Risk Management, and Compliance empowers the n8n community by showcasing n8n as a relevant and reliable open‑source automation platform that, when combined with Splunk, strengthens security operations and promotes its adoption in governance and compliance contexts.
+
+    URL: https://grcsplunkhichem.app.n8n.cloud
+
+    
+5.  **Create a Pull Request (PR)** from your forked repository back to the main `community-use` repo.
+6.  Once you're approved, your PR will be merged into this list and displayed on the main repo.
 
 ---
 
