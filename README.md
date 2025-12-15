@@ -3,8 +3,8 @@
 [![Community](https://img.shields.io/badge/Community-Driven-brightgreen)](https://shields.io)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Friendly-ff69b4)](https://shields.io)
 [![Projects Contributed](https://img.shields.io/badge/Projects%20Contributed-4-blue)](https://shields.io)
-[![Combined Stars](https://img.shields.io/badge/Combined%20Stars-12-yellow)](https://shields.io)
-[![Community Forks](https://img.shields.io/badge/Community%20Forks-6-purple)](https://shields.io)
+[![Combined Stars](https://img.shields.io/badge/Combined%20Stars-21-yellow)](https://shields.io)
+[![Community Forks](https://img.shields.io/badge/Community%20Forks-21-purple)](https://shields.io)
 [![Cost Saved](https://img.shields.io/badge/Cost%20Saved-%2475-brightgreen)](https://shields.io)
 
 ---
